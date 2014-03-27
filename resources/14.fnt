@@ -1,0 +1,19 @@
+#
+#Thu Mar 27 16:33:25 EDT 2014
+monospace=false
+monospace.numerals=false
+style=bold italic
+alphabet=
+tracking=0
+stroke.color=\#000080
+color=\#99ccff
+shadow.y=6
+family=Monospaced
+shadow.x=6
+shadow.color=\#000000
+gradient.offset=0
+shadow.blur=9
+chars=all
+stroke.size=2
+antialias=true
+size=38

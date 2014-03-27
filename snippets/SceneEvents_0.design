@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-collide-typetotype comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <die comment="false" x="26" y="47">
+                    <second-actor comment="false" id="0" x="0" y="0"/>
+                </die>
+                <pause-unpause comment="false" x="26" y="79">
+                    <int id="0" val="0"/>
+                </pause-unpause>
+                <scene-change-through comment="false" x="26" y="106">
+                    <SCENE eid="1" id="0"/>
+                    <int id="1" val="0"/>
+                    <int id="2" val="2"/>
+                </scene-change-through>
+            </group>
+            <ACTORTYPE eid="2" id="0"/>
+            <ACTORTYPE eid="0" id="1"/>
+        </event-collide-typetotype>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

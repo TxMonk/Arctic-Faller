@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pack>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="75" id="9" name="Bomb Power Up" shared="false" width="75">
+        <anim across="1" down="1" durations="100" height="75" id="0" loop="true" name="Animation 0" numframes="1" originx="37" originy="37" sync="false" width="75">
+            <poly data="4,0,0,75,0,75,75,0,75" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="8" fixedrot="false" fric="0.2" gid="3" id="8" ignoreg="false" inertia="1.0" ldamp="0.0" lw="false" mass="1.0" name="Bomb Power Up" oid="-1" pausable="true" rest="0.0" shared="false" sprite="9" static="false">
+        <snippets/>
+    </actor>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="2" fixedrot="false" fric="0.2" gid="3" id="4" ignoreg="false" inertia="1.0" ldamp="0.0" lw="false" mass="1.0" name="Health Power Up" oid="-1" pausable="true" rest="0.0" shared="false" sprite="5" static="false">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="35" id="3" name="Ice Block" shared="false" width="100">
+        <anim across="1" down="1" durations="100" height="35" id="0" loop="true" name="Normal" numframes="1" originx="50" originy="17" sync="false" width="100">
+            <poly data="4,0,0,100,0,100,35,0,35" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="1" fixedrot="false" fric="0.2" gid="4" id="2" ignoreg="false" inertia="1.0" ldamp="0.0" lw="false" mass="1.0" name="Ice Block" oid="-1" pausable="true" rest="0.0" shared="false" sprite="3" static="false">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="300" id="1" name="Player" shared="false" width="200">
+        <anim across="1" down="1" durations="100" height="300" id="0" loop="true" name="Normal" numframes="1" originx="100" originy="150" sync="false" width="200">
+            <poly data="4,0,0,200,0,200,300,0,300" density="0.1" fric="0.2" gid="-1000" id="0" name="Box" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="This is the arctic faller, our cute penguin avatar" eventsnippetid="0" fixedrot="true" fric="0.2" gid="0" id="0" ignoreg="true" inertia="1.0" ldamp="0.0" lw="false" mass="1.0" name="Player" oid="-1" pausable="true" rest="0.0" shared="false" sprite="1" static="false">
+        <snippets>
+            <s enabled="true" id="3">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="75" id="5" name="Power Up" shared="false" width="75">
+        <anim across="1" down="1" durations="100" height="75" id="0" loop="true" name="Animation 0" numframes="1" originx="37" originy="37" sync="false" width="75">
+            <poly data="4,0,0,75,0,75,75,0,75" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="75" id="11" name="Share Button" shared="false" width="125">
+        <anim across="1" down="1" durations="100" height="75" id="0" loop="true" name="Animation 0" numframes="1" originx="62" originy="37" sync="false" width="125">
+            <poly data="4,0,0,125,0,125,75,0,75" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="11" fixedrot="false" fric="0.2" gid="3" id="10" ignoreg="false" inertia="1.0" ldamp="0.0" lw="false" mass="1.0" name="Share Button" oid="-1" pausable="true" rest="0.0" shared="false" sprite="11" static="false">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="75" id="7" name="Time Power Up" shared="false" width="75">
+        <anim across="1" down="1" durations="100" height="75" id="0" loop="true" name="Animation 0" numframes="1" originx="37" originy="37" sync="false" width="75">
+            <poly data="4,0,0,75,0,75,75,0,75" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="7" fixedrot="false" fric="0.2" gid="3" id="6" ignoreg="false" inertia="1.0" ldamp="0.0" lw="false" mass="1.0" name="Time Power Up" oid="-1" pausable="true" rest="0.0" shared="false" sprite="7" static="false">
+        <snippets/>
+    </actor>
+</pack>
