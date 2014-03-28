@@ -199,6 +199,17 @@
     <font alphabet="0123456789" atlasID="0" desc="" height="31" id="12" name="Timer Font" offsets="0|0|0|,29|0|29,56|0|56,87|0|87,117|0|117,144|0|144,175|0|175,205|0|205,233|0|233,263|0|263" oid="-1" rowHeight="31" shared="false"/>
     <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="25" fixedrot="false" fric="0.2" gid="3" id="22" ignoreg="false" inertia="1.0" ldamp="0.0" lw="false" mass="1.0" name="Try Again Button" oid="-1" pausable="true" rest="0.0" shared="false" sprite="23" static="true">
         <snippets>
+            <s enabled="true" id="32">
+                <prop id="1" list="0" val="Animation 0"/>
+                <prop id="4" list="0" val="Animation 0"/>
+                <prop id="5" list="0" val="false"/>
+                <prop id="6" list="0" val="Animation 0"/>
+                <prop id="9" list="0" val="0"/>
+                <prop id="10" list="0" val="0.5"/>
+                <prop id="11" list="0" val="0.5"/>
+                <prop id="12" list="0" val="Fade"/>
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
             <s enabled="true" id="37">
                 <prop id="2147483647" list="0" val="thisactor"/>
             </s>
