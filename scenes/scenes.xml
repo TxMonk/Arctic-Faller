@@ -2,4 +2,5 @@
 <scenes>
     <scene desc="" format="1.0" id="0" name="Main Scene"/>
     <scene desc="" format="1.0" id="1" name="Game Over"/>
+    <scene desc="" format="1.0" id="2" name="Title Screen"/>
 </scenes>

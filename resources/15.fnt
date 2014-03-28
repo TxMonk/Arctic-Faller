@@ -1,0 +1,19 @@
+#
+#Fri Mar 28 10:53:32 EDT 2014
+monospace=false
+monospace.numerals=false
+style=bold
+alphabet=
+tracking=0
+stroke.color=\#ffffff
+color=\#3366ff
+shadow.y=0
+family=Cheri.ttf
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=0
+shadow.blur=0
+chars=0-9
+stroke.size=2
+antialias=true
+size=45

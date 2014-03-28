@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="23" extheight="544" extwidth="384" extx="-32" exty="-32" format="2.1" gravx="-0.0" gravy="0.0" height="480" id="2" name="Title Screen" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="320">
+    <layers>
+        <layer color="100,168,234" id="0" name="Layer 0" order="0"/>
+    </layers>
+    <grad-bg b1="128" b2="255" g1="0" g2="204" r1="0" r2="153"/>
+    <backgrounds>
+        <ref id="19"/>
+    </backgrounds>
+    <foregrounds/>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="26" name="Game Logo 1" sx="1.0" sy="1.0" x="23" y="66" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="3" id="30" name="Play Button 2" sx="1.0" sy="1.0" x="74" y="221" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="3" id="24" name="Leaderboard Button 3" sx="1.0" sy="1.0" x="75" y="288" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="28" name="Pay Button 4" sx="1.0" sy="1.0" x="75" y="355" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="3" id="32" name="Share Button 5" sx="1.0" sy="1.0" x="75" y="417" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain/>
+</scene>
